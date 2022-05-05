@@ -2,4 +2,4 @@
 Points interpolation
 
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-81f35c3c1e.gif" />
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=pM0SehJkfFE)](https://www.youtube.com/watch?v=pM0SehJkfFE "Interpolation")
